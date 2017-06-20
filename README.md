@@ -1,3 +1,7 @@
+## Forked repo
+
+For testing with a dummy dataset
+
 ### Multilabel time series classification with LSTM
 Tensorflow implementation of model discussed in the following paper: <a href="https://arxiv.org/abs/1511.03677">Learning to Diagnose with LSTM Recurrent Neural Networks</a>.
 
